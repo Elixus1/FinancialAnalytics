@@ -1,0 +1,9 @@
+.venv
+.Rhistory
+*.pdf
+*.png
+*.xlsx
+*.txt
+*.log
+*__pycache__
+*.pyc
